@@ -1,10 +1,11 @@
 import React from 'react';
 
-const About = () => {
+const Home = () => {
+    console.log('Hello');
     return (
         <>
             <div>
-                <h1>About the Company</h1>
+                <h1>Home</h1>
             </div>
         </>
 
@@ -12,4 +13,4 @@ const About = () => {
 
 };
 
-export default About;
+export default Home;
