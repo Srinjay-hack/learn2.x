@@ -1,6 +1,7 @@
 import React from 'react';
 
 const About = () => {
+    console.log('Hello');
     return (
         <>
         <div
@@ -11,11 +12,13 @@ const About = () => {
                 height: '100vh'
             }}
         >
+            
             <h1>About the Company</h1>
         </div>
         </>
        
     );
+    
 };
 
 export default About;

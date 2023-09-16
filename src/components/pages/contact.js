@@ -7,7 +7,7 @@ const Contact = () => {
                 display: 'flex',
                 justifyContent: 'Right',
                 alignItems: 'Right',
-                height: '100vh'
+                height: '20vh'
             }}
         >
             <h1>Founders</h1>

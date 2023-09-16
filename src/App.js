@@ -17,6 +17,9 @@ function App() {
         <Route path='/dashboard' element={DashBoard} />
         <Route path='/contact' element={Contact} />
         <Route path='/sign-up' element={SignUp} />
+        <Route path='/reviews' element={SignUp} />
+        <Route path='/community' element={SignUp} />
+        <Route path='/courses' element={SignUp} />
       </Routes>
     </Router>
   );
